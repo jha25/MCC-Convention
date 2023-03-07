@@ -1,1 +1,2 @@
 # MCC-Convention
+Developed a registration application composed of Spring Boot Microservices, Spring MVC front-end and RESTful service API into separate load balancing groups. Builds and unit testing of the application are automated via Jenkins, while adhering to the CI/CD pipeline and twelve factor principles. A temporary flat-file databased used for data storage is deployed and managed using Kubernetes as well as Dockers. 
